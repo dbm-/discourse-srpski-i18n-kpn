@@ -1,0 +1,5 @@
+sr:
+  site_settings:
+    enable_imgur: "Omogući imgur api za smeštanje slika, nemoj čuvati fajlove lokalno"
+    imgur_client_id: "Vaš imgur.com klijentski ID, je potreban za funkcionisanje"
+    imgur_client_secret: "Vaš imgur.com klient tajni id. Nije trenutno potreban za funkciju dodavanje slike, alo može biti u nekom trenutku."
