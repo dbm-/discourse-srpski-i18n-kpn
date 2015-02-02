@@ -1,0 +1,11 @@
+sr:
+  activerecord:
+    attributes:
+      post:
+        poll_options: "Anketne opcije"
+  poll:
+    must_contain_poll_options: "mora da sadrži listu anketnih opcija"
+    cannot_have_modified_options: "Ne može biti promenuto posle prvih pet minuta. Kontaktirajte Moderatora ako treba da ih promenite."
+    cannot_add_or_remove_options: "Može samo da se izmeni, ne doda ili oduzme. Ako treba da dodate ili oduzmete opcije trebali bi zaključati ovu temu i napraviti novu."
+    prefix: "Anketa"
+    closed_prefix: "Zatvorena Anketa"

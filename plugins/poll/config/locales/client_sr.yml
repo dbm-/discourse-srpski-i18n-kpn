@@ -1,0 +1,8 @@
+sr:
+  js:
+    poll:
+      results:
+        show: Pokažite rezultate
+        hide: Sakri Rezultate
+      close_poll: "Zatvori Anketu"
+      open_poll: "Otvori Anketu"
