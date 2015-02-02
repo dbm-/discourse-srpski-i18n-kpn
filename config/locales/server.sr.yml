@@ -1,0 +1,42 @@
+sr:
+  stringex:
+    characters:
+      number: "-"
+  i18n:
+    transliterate:
+      rule:
+        ț: "t"
+        Ț: "t"
+        ș: "s"
+        Ș: "s"
+  dates:
+    short_date_no_year: "D MMM"
+    short_date: "D MMM, YYYY"
+    long_date: "MMMM D, YYYY h:mma"
+  title: "Discourse"
+  topics: "Teme"
+  posts: "poruke"
+  loading: "Učitavanje"
+  powered_by_html: 'Napravljeno od <a href="http://www.discourse.org">Discourse</a>, najbolji pregled ako vam je JavaScript omgućen.'
+  log_in: "Pristupi"
+  via: "%{username} preko %{site_name}"
+  is_reserved: "je rezervisan"
+  purge_reason: "Automatski obrisan kao napusten, neaktivan nalog."
+  disable_remote_images_download_reason: "Daljinske slike za download je onemogućeno zato što nije bilo dovoljno slobodnog prostora na disku."
+  errors:
+    messages:
+      too_long_validation: "je limitirano na %{max} karaktera; koje ste vi uneli %{length}."
+      invalid_boolean: "Nepravilan boolean."
+      taken: "je vec preuzeto. (Imena grupa su usenzitivitetu)"
+    embed:
+      load_from_remote: "Bila je greška tokom očitavanja ove poruke."
+  bulk_invite:
+    file_should_be_csv: "Postavljena datoteka bi trebala da bude u csv ili txt formatu."
+  backup:
+    operation_already_running: "Jedna operacija je trenutno pokrenuta. Ne mogu da pokrenem drugu trenutno."
+    backup_file_should_be_tar_gz: "Rezervna datoteka bi trebala biti u .tar.gz arhivi."
+    not_enough_space_on_disk: "Nema dovoljno prostora na disku da bi ubacili ovau rezervu."
+  not_logged_in: "Niste prijavljeni da bi uradili to."
+  read_only_mode_enabled: "Sajt je u čitaj samo modu. Interakcije su isključene."
+  rss_description:
+    latest: "Poslednje teme"
