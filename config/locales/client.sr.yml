@@ -150,12 +150,10 @@ sr:
       stat:
         all_time: "Sve vreme"
         last_7_days: "Zadnjih 7 Dana"
-	    last_30_days: "Zadnjih 30 Dana"
       like_count: "Sviđanja"
       topic_count: "Teme"
       post_count: "Poruka"
       user_count: "Korisnika"
-	  active_user_count: "Aktivnih Korisnika"
       contact: "Kontaktirajte Nas"
       contact_info: "U trenutku kritičnog problema ili hitnog slučaja koji utiče na sajt, molimo vas kontaktirajte nas na %{contact_email}"
     bookmarked:
