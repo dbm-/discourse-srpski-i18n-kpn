@@ -282,13 +282,13 @@ sr:
       said: "{{username}}:"
       profile: "Profil"
       mute: "Utišaj"
-      edit: "Uredi postavke"
+      edit: "Uredi Podešavanja"
       download_archive: "Skini moje poruke"
       new_private_message: "Nova Privatna Poruka"
       private_message: "Privatne Poruke"
       private_messages: "Poruke"
       activity_stream: "Aktivnost"
-      preferences: "Postavke"
+      preferences: "Podešavanja"
       bookmarks: "Markiraj"
       bio: "O meni"
       invited_by: "Pozvan od"
@@ -757,8 +757,8 @@ sr:
         category: "Nema tema u {{category}}."
         top: "Nema glavnih tema."
         educate:
-          new: '<p>Vaše nove teme će se pojavljivati ovde</p><p>Standardno,  teme se smatraju novima i prikazivati će indikator <span class="badge new-topic badge-notification" style="vertical-align:middle;line-height:inherit;">novo</span> ako su otvorene u zadnjih 24 sata</p><p>Ovo možete promeniti u <a href="%{userPrefsUrl}">postavkama</a>.</p>'
-          unread: '<p>Vaše nepročitane teme će se pojavljivati ovde.</p><p>Srandardno, teme se smatraju nepročitanima i prikazivaće zbir nepročitanih<span class="badge new-posts badge-notification">1</span> ako ste vi:</p><ul><li>Otvorili temu</li><li>Odgovorili u temi</li><li>Čitali temu duže od 4 minute</li></ul><p>Ili ako ste eksplicitno označili temu kao "Praćenu" ili "Promatranu" pomoću kontrola za obaveštenja na dnu svake teme.</p><p>Ovo možete promeniti u<a href="%{userPrefsUrl}">postavkama</a>.</p>'
+          new: '<p>Vaše nove teme će se pojavljivati ovde</p><p>Standardno,  teme se smatraju novima i prikazivati će indikator <span class="badge new-topic badge-notification" style="vertical-align:middle;line-height:inherit;">novo</span> ako su otvorene u zadnjih 24 sata</p><p>Ovo možete promeniti u <a href="%{userPrefsUrl}">Podešavanjima</a>.</p>'
+          unread: '<p>Vaše nepročitane teme će se pojavljivati ovde.</p><p>Srandardno, teme se smatraju nepročitanima i prikazivaće zbir nepročitanih<span class="badge new-posts badge-notification">1</span> ako ste vi:</p><ul><li>Otvorili temu</li><li>Odgovorili u temi</li><li>Čitali temu duže od 4 minute</li></ul><p>Ili ako ste eksplicitno označili temu kao "Praćenu" ili "Promatranu" pomoću kontrola za obaveštenja na dnu svake teme.</p><p>Ovo možete promeniti u <a href="%{userPrefsUrl}">Podešavanjima</a>.</p>'
       bottom:
         latest: "Nema više najnovijih tema."
         hot: "Nema više vrućih tema."
@@ -827,7 +827,7 @@ sr:
       deleted: "Tema je obrisana"
       auto_close_notice: "Ova tema će se autmatski zatvoriti %{timeLeft}."
       auto_close_notice_based_on_last_post: "Ova tema će se zatvoriti %{duration} nakon zadnjeg odgovora."
-      auto_close_title: 'Postavke Automatskog Zatvaranja'
+      auto_close_title: 'Podešavanje Automatskog Zatvaranja'
       auto_close_save: "Sačuvaj"
       auto_close_remove: "Nemoj Automatski Zatvoriti Ovu Temu"
       progress:
@@ -1024,7 +1024,7 @@ sr:
       wiki:
         about: "ova poruka je wiki; standardni korisnici je mogu izmjenjivati"
       archetypes:
-        save: 'Sačuvaj postavke'
+        save: 'Sačuvaj Podešavanje'
       controls:
         reply: "počnite sa sastavljanjem odgovora na ovu poruku"
         like: "Lajkuj ovu poruku"
@@ -2015,7 +2015,7 @@ sr:
         categories:
           all_results: 'Sve'
           required: 'Potrebno'
-          basic: 'Osnovne Postavke'
+          basic: 'Osnovna Podešavanja'
           users: 'Korisnici'
           posting: 'Poruke'
           email: 'Email'
