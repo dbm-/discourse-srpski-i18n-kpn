@@ -142,10 +142,10 @@ sr:
     suggested_topics:
       title: "Predložene Teme"
     about:
-      simple_title: "O"
+      simple_title: "O Nama"
       title: "O %{title}"
       stats: "Statistike Sajta"
-      our_admins: "Naši Admini"
+      our_admins: "Naši Administratori"
       our_moderators: "Naši Moderatori"
       stat:
         all_time: "Sve vreme"
@@ -640,7 +640,7 @@ sr:
       title_placeholder: "O čemu je ova diskusija u jednoj kratkoj rečenici?"
       edit_reason_placeholder: "zašto izmenjujete?"
       show_edit_reason: "(dodaj razlog izmene)"
-      reply_placeholder: "Pišite ovdje. Koristite Markdown ili BBCode za formatiranje. Povucite ili zalepite sliku za učitavanje."
+      reply_placeholder: "Pišite ovde. Koristite Markdown ili BBCode za formatiranje. Povucite ili zalepite sliku za učitavanje."
       view_new_post: "Pogledajte svoju novu poruku."
       saving: "Sačuvavam..."
       saved: "Sačuvano!"
